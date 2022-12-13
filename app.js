@@ -25,7 +25,7 @@ app.get('/',  (req, res) => {
 
 app.get('/generic',  (req, res) => {
   res.render('generic',{
-    nombre: 'Rodrigo Rojas',
+    nombre: 'Abdel Rodrigo Rojas Plata',
     titulo: 'Curso de Node'
   });
 });
